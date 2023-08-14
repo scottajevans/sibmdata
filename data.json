@@ -59,5 +59,16 @@
             "sentances",
             "mulitplayer"
         ]
+    },
+    {
+        "url" : "https://jeardle.onrender.com/",
+        "image" : "https://jeardle.onrender.com/static/media/logo.9781cc0131ebea376c93.png",
+        "name" : "Jeardle",
+        "tags" : [
+            "guessing",
+            "pop-culture",
+            "singleplayer",
+            "group-play"
+        ]
     }
 ]
